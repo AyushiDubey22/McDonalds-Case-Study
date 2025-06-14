@@ -27,5 +27,5 @@ The dataset includes 1,453 entries and the following key features:
 
 ## Project Structure
 -  McD_Customer_Segmentation.ipynb 
-- README.md # Project documentation
+- README.md 
 - data
