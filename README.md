@@ -24,8 +24,3 @@ The dataset includes 1,453 entries and the following key features:
 - **KMeans Clustering (k=4)**
 - **Cluster-wise Profiling**
 - **Strategic Recommendation Development**
-
-## Project Structure
--  McD_Customer_Segmentation.ipynb 
-- README.md 
-- data
